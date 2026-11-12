@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
             Lab13AnimacionesTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Box(modifier = Modifier.padding(innerPadding)) {
-                        Ejercicio1Screen()
+                        Ejercicio2Screen()
                     }
                 }
             }
